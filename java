@@ -8,7 +8,7 @@ app.use(express.json());
 // Transporter setup (use your SMTP creds)
 const transporter = nodemailer.createTransporter({
   service: 'gmail',
-  auth: { user: 'yourapp@gmail.com', pass: 'app-password' }
+a  auth: {  auth:nandasiri413@gmailcom {:na{us'n', pa }
 });
 
 // In-memory store (use Redis/Mongo in prod)
